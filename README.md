@@ -2,7 +2,7 @@
 
 API repository for TodoNest, a project and todo management app.
 
-This project is written using **Spring Boot**.
+This project is written using **Spring Boot**. <br>
 I have opted for a **PostgreSQL** DB to store the data.
 
 ### Run Locally
@@ -12,7 +12,7 @@ Clone the project
 ```bash
 git clone https://github.com/Satchit1910/todonest-api
 ```
-Add **env.properties** file in the route */src/main/resources* , i.e. in the same directory as application.properties.
+Add **env.properties** file in the route */src/main/resources* , i.e. in the same directory as application.properties. <br>
 You have to add the credentials to your PostgreSQL DB and also a GitHub PAT in this file.
 
 Format for env.properties: <br>
