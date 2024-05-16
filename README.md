@@ -11,6 +11,9 @@ Clone the project
 ```bash
 git clone https://github.com/Satchit1910/todonest-api
 ```
+
+Uncomment the first line from **application.properties**.
+
 Add **env.properties** file in the route */src/main/resources* , i.e. in the same directory as application.properties.
 
 Format for env.properties: <br>
