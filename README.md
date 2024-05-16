@@ -4,6 +4,8 @@ API repository for TodoNest, a project and todo management app.
 
 This project is written using Spring Boot.
 
+I have hosted the full-stack app using Vercel and render.com. Check it out [here](https://todonest-v1.vercel.app/).
+
 ### Run Locally
 
 Clone the project
